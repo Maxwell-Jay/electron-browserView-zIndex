@@ -66,7 +66,7 @@ function wait (time) {
 }
 ```
 
-![example](./example.gif)
+![example](https://github.com/user-attachments/assets/e9be3b7d-5db0-4281-8504-889484c279f3)
 
 ## How
 
