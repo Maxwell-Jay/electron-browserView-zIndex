@@ -16,6 +16,7 @@
     "z-index",
     "layer"
   ],
+  "homepage": "https://github.com/Maxwell-Jay/electron-browserView-zIndex",
   "author": "",
   "license": "MIT",
   "devDependencies": {
