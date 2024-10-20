@@ -1,5 +1,6 @@
 # electron-browserView-zIndex
-Support for BrowserView zIndex, allowing for more flexible layer management in Electron BrowserWindow. If you enjoyed this, a star would be greatly appreciated. Thank you.
+Support for BrowserView zIndex, allowing for more flexible layer management in Electron BrowserWindow. If there are any issues, please feel free to raise them and I will fix them as soon as possible.
+If you enjoyed this, a star would be greatly appreciated. Thank you.
 
 ## Installation
 
