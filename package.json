@@ -4,6 +4,7 @@
   "description": "Support for BrowserView zIndex, allowing for more flexible layer management in Electron BrowserWindow.",
   "main": "index.js",
   "scripts": {
+    "example": "electron ./example",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
