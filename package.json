@@ -1,6 +1,6 @@
 {
   "name": "electron-browserview-zindex",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Support for BrowserView zIndex, allowing for more flexible layer management in Electron BrowserWindow.",
   "main": "index.js",
   "scripts": {
